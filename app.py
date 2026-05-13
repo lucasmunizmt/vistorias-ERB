@@ -97,7 +97,7 @@ elif licenciada in ["Sim", "Dispensa de licenciamento"]:
         ir_para_checklist = True
     else:
         texto_relato = "Na vistoria realizada, verificou-se que a infraestrutura de telecomunicações, devidamente licenciada, ainda não foi implantada."
-        texto_conclusao = "Tendo em vista que a infraestrutura de telecomunicações ainda não foi implantada, informa-se que, por ora, não há necessidade de adoção de medidas fiscais adicionais, ressalvando-se que o presente processo será oportunamente incluído em programação fiscal."
+        texto_conclusao = "Tendo em vista que a infraestrutura de telecomunicações ainda não foi implantada, informa-se que, por ora, não há necessidade de adoção de medidas fiscais adicionais, ressalvando-se que o presente processo será objeto de futuras fiscalizações."
 
 if ir_para_checklist:
     st.header("📝 Checklist de Vistoria")
