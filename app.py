@@ -61,9 +61,7 @@ if output and output.get("last_clicked"):
 # 3. Cabeçalho Visual no App
 st.markdown("""
     <div style="text-align: center;">
-        <h2 style="margin-bottom: 0;">GOVERNO DO DISTRITO FEDERAL</h2>
-        <p style="margin-top: 0;">Secretaria de Estado de Proteção da Ordem Urbanística do Distrito Federal - DF LEGAL<br>
-        Subsecretaria de Fiscalização de Obras</p>
+        <h2 style="margin-bottom: 20px;">Relatório Simplificado de vistoria de ERB</h2>
     </div>
     <hr>
 """, unsafe_allow_html=True)
