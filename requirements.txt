@@ -1,4 +1,7 @@
 streamlit
 python-docx
-fpdf
+pandas
+folium
+streamlit-folium
 Pillow
+fpdf2
